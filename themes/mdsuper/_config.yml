@@ -10,20 +10,20 @@ drawer:
   # true - if you open it once, it will open all the time util you close it 打开了就会一直打开
   # false - open when you click the menu button, won't open when page loads 关闭，点击按钮才打开
   menu: # add your entries here 在此处添加您的条目
-   主页: # display text for "home page" 主页
+   主页: # display text for "home page"
       icon: home # mdui icon
       url: /
       home: true
-    分类: # catorgories 分类
+    分类: # catorgories
       icon: folder
       url: /categories
-    标签: # tags 标签
+    标签: # tags
       icon: bookmark
       url: /tags
-    帖子: # archives 归档
+    帖子: # archives
       icon: archive
       url: /archives
-    关于: # about 关于
+    关于: # about
       icon: info
       url: /about
 
