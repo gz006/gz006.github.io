@@ -2,7 +2,7 @@ theme:
   colorScheme: "#f9abff"
   layout: auto # dark | light | auto
 
-favicon: "" # path( or url) of avatar such as /favicon.png
+favicon: "/avatar.png" # path( or url) of avatar such as /favicon.png
 
 # Navigation Drawer 导航栏
 drawer:
