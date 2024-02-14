@@ -1,5 +1,5 @@
 theme:
-  colorScheme: "#f9abff"
+  colorScheme: "#0032ff"
   layout: auto # dark | light | auto
 
 favicon: "/avatar.png" # path( or url) of avatar such as /favicon.png
