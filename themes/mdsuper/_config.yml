@@ -14,16 +14,16 @@ drawer:
       icon: home # mdui icon
       url: /
       home: true
-    分类: # catorgories
+   分类: # catorgories
       icon: folder
       url: /categories
-    标签: # tags
+   标签: # tags
       icon: bookmark
       url: /tags
-    帖子: # archives
+   帖子: # archives
       icon: archive
       url: /archives
-    关于: # about
+   关于: # about
       icon: info
       url: /about
 
