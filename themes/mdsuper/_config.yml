@@ -1,29 +1,29 @@
 theme:
-  colorScheme: "#4fd8eb"
-  layout: dark # dark | light | auto
+  colorScheme: "#f9abff"
+  layout: auto # dark | light | auto
 
 favicon: "" # path( or url) of avatar such as /favicon.png
 
 # Navigation Drawer 导航栏
 drawer:
-  always_open: true
+  always_open: false
   # true - if you open it once, it will open all the time util you close it 打开了就会一直打开
   # false - open when you click the menu button, won't open when page loads 关闭，点击按钮才打开
   menu: # add your entries here 在此处添加您的条目
-    Home: # display text for "home page" 主页
+   主页: # display text for "home page" 主页
       icon: home # mdui icon
       url: /
       home: true
-    Categories: # catorgories 分类
+    分类: # catorgories 分类
       icon: folder
       url: /categories
-    Tags: # tags 标签
+    标签: # tags 标签
       icon: bookmark
       url: /tags
-    Archives: # archives 归档
+    帖子: # archives 归档
       icon: archive
       url: /archives
-    About: # about 关于
+    关于: # about 关于
       icon: info
       url: /about
 
