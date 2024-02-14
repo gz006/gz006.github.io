@@ -42,13 +42,13 @@ copyright: ""
 #   lang: 'zh-CN' 
 
 comment:
-  system: none # none | twikoo | gitalk | waline
+  system: twikoo # none | twikoo | gitalk | waline
   twikoo:  # see: https://twikoo.js.org/frontend.html
     cdn: 
       js: /js/twikoo.all.min.js # or use cdn such as https://cdn.bootcdn.net/ajax/libs/twikoo/1.6.31/twikoo.all.min.js
     
     # twikoo settings:
-    envId: ""
+    envId: "https://twikoo.006.tobylai.fun/"
     region: '' # region, see twikoo documentation
     path: location.pathname # will eval this, be careful
     lang: 'zh-CN' 
